@@ -1,0 +1,4 @@
+Model File;Precision;Recall;mAP;F1
+/home/synergy-carla/Documents/imen m/yolo/content/checkpoints/yolov3_model_epoch-246_MAP-0.00.pth;0.014245014245014246;0.04807692307692308;8.050452807007114e-03;0.0219780219780218
+Best Model;/home/synergy-carla/Documents/imen m/yolo/content/checkpoints/yolov3_model_epoch-246_MAP-0.00.pth;;;
+Best mAP;8.050452807007114e-03;;;
